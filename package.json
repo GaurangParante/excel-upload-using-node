@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "xlsx": "^0.18.5"
+  },
+  "name": "excel-upload-using-node",
+  "version": "1.0.0",
+  "description": "excel upload using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaurangParante/excel-upload-using-node.git"
+  },
+  "author": "Gaurang Parante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaurangParante/excel-upload-using-node/issues"
+  },
+  "homepage": "https://github.com/GaurangParante/excel-upload-using-node#readme"
+}
